@@ -1,6 +1,7 @@
 # AngularDirectives
 
-This projects was made while doing a course from Maximiliam Schwarzmuller module name Directives Deep Dive
+This projects was made while doing a course from Maximiliam Schwarzmuller
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
 ## Development server
